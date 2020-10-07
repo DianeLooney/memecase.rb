@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rubygems@dianelooney.com"]
 
   spec.summary       = %q{For all your shitposting needs.}
-  spec.homepage      = "github.com/DianeLooney/memecase"
+  spec.homepage      = "https://github.com/DianeLooney/memecase"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
