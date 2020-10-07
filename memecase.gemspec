@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "memecase"
-  spec.version       = Memecase::VERSION
+  spec.version       = "0.420.69"
   spec.authors       = ["Diane Looney"]
   spec.email         = ["rubygems@dianelooney.com"]
 
