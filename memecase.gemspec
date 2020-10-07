@@ -4,12 +4,12 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "memecase"
-  spec.version       = "0.420.69"
+  spec.version       = "1.420.69"
   spec.authors       = ["Diane Looney"]
   spec.email         = ["rubygems@dianelooney.com"]
 
   spec.summary       = %q{For all your shitposting needs.}
-  spec.homepage      = "https://github.com/DianeLooney/memecase"
+  spec.homepage      = "https://github.com/DianeLooney/memecase.rb"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
